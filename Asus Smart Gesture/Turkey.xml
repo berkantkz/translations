@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<language>
+  <string index="Touchpad" message="Dokunmatik yüzey"/>
+  <string index="Gesture" message="Hareketler"/>
+  <string index="Smart Detector" message="Smart Detektor"/>
+  <string index="Mouse Detection" message="Fare algılama"/>
+  <string index="Touchpad Button" message="Dokunmatik yüzey tuşu"/>
+  <string index="Set all to default" message="Varsayılanlara sıfırla"/>
+  <string index="OK" message="Tamam"/>
+  <string index="Cancel" message="İptal"/>
+  <string index="Apply" message="Uygula"/>
+  <string index="Closed" message="Geschlossen"/>
+  <string index="Minimized" message="Minimiert"/>
+  <string index="Enable" message="Etkinleştir"/>
+  <string index="Disable" message="Devre dışı bırak"/>
+  <string index="One Finger" message="Bir parmak"/>
+  <string index="Two Fingers" message="İki parmak"/>
+  <string index="Three Fingers" message="Üç parmak"/>
+  <string index="Select" message="Seç"/>
+  <string index="Activate" message="Etkinleştir"/>
+  <string index="Drag" message="Sürükle"/>
+  <string index="Show pop-up menu" message="Sağ tuş seçkesini göster"/>
+  <string index="Scroll" message="Kaydır"/>
+  <string index="Zoom" message="Yakınlaştır"/>
+  <string index="Rotate" message="Drehen"/>
+  <string index="Show and navigate running applications view" message="Laufende Anwendungen anzeigen und navigieren"/>
+  <string index="Show desktop" message="Desktop anzeigen"/>
+  <string index="Navigate pages" message="Seiten navigieren"/>
+  <string index="Tap to select" message="Seçmek için dokunun"/>
+  <string index="Double tap to activate" message="Etkinleştirmek için iki kere dokunun"/>
+  <string index="Double tap and hold then drag" message="İki kere dokunun ve ardından sürükleyin"/>
+  <string index="Tap to show pop-up menu" message="Sağ tuş seçkesini gööstermek için dokunun"/>
+  <string index="Swipe horizontally or vertically" message="Yatay ya da dikey kaydır"/>
+  <string index="Pinch to zoom in/out" message="Yakınlaştırmak/uzaklaştırmak için parmaklarınızı birleştirin/ayırın"/>
+  <string index="Rotate two fingers clockwise or counterclockwise" message="Rotieren Sie zwei Finger im oder gegen den Uhrzeigersinn"/>
+  <string index="Swipe up" message="Nach oben durchziehen"/>
+  <string index="Swipe left or right" message="Nach links oder rechts durchziehen"/>
+  <string index="Swipe down" message="Nach unten durchziehen"/>
+  <string index="Enable Smart Detector" message="Smart Detektor aktivieren"/>
+  <string index="Smart Detector gives you a smooth typing experience. By enabling it, the tapping function of the touchpad is auto-locked during typing." message="Smart Detektor sorgt für ein reibungsloses Tippen. Wird er aktiviert, ist das Touchpad beim Tippen automatisch gesperrt."/>
+  <string index="Activation Area" message="Aktivierungsbereich"/>
+  <string index="Asus Recommend" message="Von Asus empfohlen"/>
+  <string index="Sensitive" message="Empfindlich"/>
+  <string index="Insensitive" message="Unempfindlich"/>
+  <string index="Customize" message="Anpassen"/>
+  <string index="Drag the circle to move its dots and drag the position to change its size." message="Ziehen Sie den Kreis, um seine Punkte zu verschieben, und ziehen Sie die Position, um seine Größe zu ändern."/>
+  <string index="Disable touchpad when mouse is plugged-in" message="Fare takıldığında dokunmatik yüzeyi devre dışı bırak"/>
+  <string index="Switch Left / Right Button" message="Nach-links- / Nach-rechts-Taste umschalten"/>
+  <string index="Pop-up Menu" message="Einblendmenü"/>
+  <string index="Left" message="Links"/>
+  <string index="Right" message="Rechts"/>
+  <string index="Click / Select" message="Klicken / Auswählen"/>
+  <string index="Toggle Charm Bar" message="Zauberleiste umschalten"/>
+  <string index="Toggle Menu Bar" message="Menüleiste umschalten"/>
+  <string index="Switch Running Applications" message="Laufende Anwendungen schalten"/>
+  <string index="Swipe left from right edge" message="Vom rechten Rand nach links streichen"/>
+  <string index="Swipe down from top edge" message="Vom oberen Rand nach unten streichen "/>
+  <string index="Swipe right from left edge" message="Vom linken Rand nach rechts streichen"/>
+  <string index="General Gesture" message="Allgemeine Bewegung"/>
+  <string index="You can choose to disable touchpad once an USB or wireless mouse is connected to the notebook." message="Herhangi bir fare bağlandığı anda dokunmatik yüzeyin etin ya da devre dışı olacağını seçebilirsiniz."/>
+  <string index="Edge Gesture" message="Randgesten"/>
+  <string index="Content moves with your finger&apos;s direction" message="İçerik, parmağınızın ilerlediği doğrultuda hareket eder"/>
+  <string index="Mobile Control" message="Uzaktan yönetim"/>
+  <string index="Always hide the notification." message="Bildirimi her zaman gizle."/>
+  <string index="Enable Remote Link in my PC" message="Remote Link'i (Uzak bağlantı) etkinleştir"/>
+  <string index="Remote Link provides a friendly way to remotely control your PC through Bluetooth." message="Remote Link, Bluetooth aracılığıyla bilgisayarınızı kolayca uzaktan yönetmenizi sağlar."/>
+  <string index="Install Remote Link" message="Remote Link kurulumu"/>
+  <string index="Your Smart Gesture supports Remote Link. Click here for details." message="Smart Gesture, Remote Link'i desteklemekte. Ayrıntılar için bunu seçin."/>
+  <string index="Installation" message="Kurulum"/>
+  <string index="There are several ways to install Remote Link." message="Remote Link'in kurulumu yapabileceğiniz birkaç yol bulunmaktadır."/>
+  <string index="Use the QR code scanner to quickly and accurately scan the QR code." message="Kare kodu hızlı ve doğru şekilde taramak için kare kod okuyucu kullanın."/>
+  <string index="Search &quot;Remote Link&quot; from Google Play or" message="Ya da Google Play'de &quot;Remote Link&quot; araması yapın."/>
+  <string index="Android version" message="Android için"/>
+  <string index="Go to Google Play" message="Google Play'de görüntüle"/>
+  <string index="Version" message="Sürüm"/>
+  <string index="More Settings" message="Daha fazla"/>
+  <string index="ASUS Customized Gesture" message="ASUS tercih edilenleri"/>
+  <string index="Microsoft Default Gesture" message="Microsoft varsayılanları"/>
+  <string index="You&apos;ll enjoy controlling with gestures to go back/forward in browsers and switching desktops more than what Windows provides like launching Task View, Cortana, and Notifications." message="Sie genießen die Steuerung mit Gesten zur Vorwärts-/Rückwärtsnavigation in Browsern und zum Wechseln zwischen Desktops mehr als mit dem Windows-Leistungsumfang; enthalten sind beispielsweise die Einblendung von Aufgabenansicht, Cortana und Benachrichtigungen."/>
+  <string index="You can use the native Windows touchpad configuration without any optimization made by ASUS Smart Gesture." message="Sie können die native Windows-Touchpad-Konfiguration ohne jegliche Optimierung durch ASUS Smart Gesture nutzen."/>
+  <string index="Restart server" message="Sunucuyu yeniden başlat"/>
+  <string index="Three/Four Fingers" message="Üç/dört parmak"/>
+  <string index="Tap or swipe to show pop-up menu" message="Zur Anzeige des Pop-up-Menüs tippen oder wischen"/>
+  <string index="Execute Microsoft Cortana, notifications, task view, or switch pages in browser" message="Microsoft Cortana, bildirimler, görev görünümü ya da tarayıcıda sayfa değiştirme"/>
+  <string index="Content moves in the other direction with swipe" message="İçerik, parmağınızın ilerlediği doğrultuda ilerlesin"/>
+  <string index="Server Version(PC side)" message="Sunucu sürümü (Bilgisayardaki)"/>
+  <string index="Execute Microsoft Cortana, notifications, task view, or switch desktops" message="Microsoft Cortana, bildirimler, görev görünümü ya da masaüstleri arasında geçiş"/>
+  <string index="Tap or swipe to use" message="Zur Benutzung tippen oder wischen"/>
+  <string index="Use gestures for quick and easy navigation, such as on Windows® Store apps, web pages, desktops, active apps, and Windows® Charm bar." message="Nutzen Sie Gesten zur schnellen und einfachen Navigation, bspw. in Windows® Store-Apps, Webseiten, Desktops, aktiven Apps und Windows® Charms-Leiste."/>
+  <string index="Please try it to experience a smoother performance." message="Bitte testen Sie es für geschmeidigere Leistung."/>
+  <string index="Touchpad Enhancement" message="Touchpad-Verbesserung"/>
+  <string index="Restore" message="Wiederherstellen"/>
+  <string index="Enhanced Smart Gesture" message="Verbessertes Smart Gesture"/>
+  <string index="Remote Link provides a friendly way to remotely control your PC through Wifi or Bluetooth." message="Remote Link, Bluetooth ya da kablosuz ağ aracılığıyla bilgisayarınızı kolayca uzaktan yönetmenizi sağlar"/>
+</language>
